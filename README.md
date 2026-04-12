@@ -7,3 +7,4 @@ I then worked on the bot's responses to user inputs.
 I then implemented questions regarding cybersecurity. 
 I then enhanced the console's User Interface by using colours, adding borders and the typing effect to make it look good. 
 Went back and fixed the voice greeting and it is working. 
+Made my video of explaining the code. 
