@@ -5,3 +5,4 @@ I then added an ASCII image to my code for better user interaction, to make it m
 I then worked on the user input and validation. I made my bot to be able to handle empty inputs and uknown inputs.
 I then worked on the bot's responses to user inputs. 
 I then implemented questions regarding cybersecurity. 
+
